@@ -1,0 +1,33 @@
+html{
+	color: white;
+	background-color: #282828;
+	height: 2160px;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+
+#IMG01-overlay{
+	position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 47%;
+    height: 54%;
+    background-color: white;
+    opacity: 0;
+    z-index: 100;
+}
+#IMG01-overlay:hover{
+	cursor: pointer;
+	opacity: 0;
+}
+
+.BackgroundImage{
+	position: absolute;
+	top: 0px;
+	left: 0pc;
+	width: 100%;
+
+}
