@@ -1,17 +1,12 @@
 html{
 	color: white;
 	background-color: #282828;
-	height: 2160px;
 }
 
 ::-webkit-scrollbar { 
     display: none; 
 }
 
-.BackgroundImage{
-	position: absolute;
-	top: 0px;
-	left: 0pc;
+.Test{
 	width: 100%;
-
 }
