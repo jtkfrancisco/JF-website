@@ -21,7 +21,7 @@ html{
 	border: 0;
 }
 .spacer{
-	height: 230px;
+	height: 190px;
 	width: 100%;
 	margin: 0;
 	padding: 0;
@@ -52,14 +52,14 @@ div.clickBox-work:hover{
 	border-bottom: 2px solid white;
 }
 
-.clickBox-contact{
-	position: absolute;
-    width: 4%;
+.clickBox-about{
+    position: absolute;
+    width: 3.2%;
     height: 14.6%;
     top: 65%;
-    left: 72.3%;
+    left: 72.6%;
 }
-div.clickBox-contact:hover{
+div.clickBox-about:hover{
 	border-bottom: 2px solid white;
 }
 
@@ -103,7 +103,7 @@ div.clickBox-services:hover{
     width: 25.6%;
     height: 87.6%;
     top: 5%;
-    left: 9.2%;
+    left: 6%;
     z-index: 100;
 }
 div.clickBox-logo:hover{
@@ -134,7 +134,7 @@ div.clickBox-poster:hover{
     width: 25.6%;
     height: 87.6%;
     top: 5%;
-    left: 63.8%;
+    left: 67%;
 }
 div.clickBox-video:hover{
 	background-color: purple;
