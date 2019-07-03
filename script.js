@@ -16,7 +16,7 @@ $(".clickBox-testimonials").on('click', function(){
 })
 
 $(".clickBox-services").on('click', function(){
-	window.location.href = "testimonials.html";
+	window.location.href = "services.html";
 })
 
 //-------------------------------------------3 BOXES----------------------------------------
