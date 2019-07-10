@@ -4,7 +4,7 @@ $(".clickBox-home").on('click', function(){
 })
 
 $(".clickBox-work").on('click', function(){
-	window.location.href = "index.html";
+	window.location.href = "work.html";
 })
 
 $(".clickBox-about").on('click', function(){
