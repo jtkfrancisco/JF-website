@@ -1,36 +1,36 @@
 //-------------------------------------------MAIN NAV----------------------------------------
-$(".clickBox-home").on('click', function(){
-	window.location.href = "index.html";
-})
+// $(".clickBox-home").on('click', function(){
+// 	window.location.href = "index.html";
+// })
 
-$(".clickBox-work").on('click', function(){
-	window.location.href = "work.html";
-})
+// $(".clickBox-work").on('click', function(){
+// 	window.location.href = "work.html";
+// })
 
-$(".clickBox-about").on('click', function(){
-	window.location.href = "about.html";
-})
+// $(".clickBox-about").on('click', function(){
+// 	window.location.href = "about.html";
+// })
 
-$(".clickBox-testimonials").on('click', function(){
-	window.location.href = "testimonials.html";
-})
+// $(".clickBox-testimonials").on('click', function(){
+// 	window.location.href = "testimonials.html";
+// })
 
-$(".clickBox-services").on('click', function(){
-	window.location.href = "services.html";
-})
+// $(".clickBox-services").on('click', function(){
+// 	window.location.href = "services.html";
+// })
 
 //-------------------------------------------3 BOXES----------------------------------------
-$(".clickBox-logo").on('click', function(){
-	window.location.href = "logos.html";
-})
+// $(".clickBox-logo").on('click', function(){
+// 	window.location.href = "logos.html";
+// })
 
-$(".clickBox-poster").on('click', function(){
-	window.location.href = "posters.html";
-})
+// $(".clickBox-poster").on('click', function(){
+// 	window.location.href = "posters.html";
+// })
 
-$(".clickBox-video").on('click', function(){
-	window.location.href = "videos.html";
-})
+// $(".clickBox-video").on('click', function(){
+// 	window.location.href = "videos.html";
+// })
 
 //-------------------------------------------FEATURES----------------------------------------
 // $(".clickBox-feature01").on('click', function(){
